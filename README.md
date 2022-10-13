@@ -1,2 +1,2 @@
 # Twitter-Data
- Twitterdan tweet datası çekme
+ Getting tweets data from Twitter 
