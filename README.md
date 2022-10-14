@@ -4,4 +4,4 @@
  Getting tweets data from Twitter with using SNScrape
 ## Example DB:
 
-![DB](https://github.com/Rekl0w/Twitter-Data/blob/main/db.png)
+![DB](https://github.com/Rekl0w/Twitter-Data/blob/main/img/db.png)
